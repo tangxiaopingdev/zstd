@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "libzstd"
+  spec.name         = "zstd"
   spec.version      = "1.5.6"
   spec.summary      = "Cocoapods wrapper of facebook/zstd."
   spec.description  = "Zstandard, or zstd as short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It's backed by a very fast entropy stage, provided by Huff0 and FSE library."
